@@ -8,7 +8,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alizaali&label=Profile%20views&color=0e75b6&style=flat" alt="alizaali" /> </p>
 
 - 🌱 I’m currently learning **Web 3 and metaverse, Mern stack course**
-
 - 📫 How to reach me **alizanoushad29@gmaail.com**
 
 <h3 align="left">Connect with me:</h3>
